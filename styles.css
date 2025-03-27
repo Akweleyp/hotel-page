@@ -117,13 +117,14 @@ nav a:hover {
 }
 .ourserv {
   height:80vh;
-  padding: 2rem;
+  padding: 1rem;
   margin: 20px;
   display: flex;
   flex-direction: column;
   justify-content: left;
   font-size: larger;
   width: 90%;
+  padding-top: 60px;
 
 }
 .service {
@@ -138,7 +139,7 @@ nav a:hover {
 .service-icons{
   width: 90%;
   height: 55vh;
-  padding: 1.5rem;
+  padding: 1rem;
   display: flex;
   gap: 30px;
 
